@@ -1,0 +1,15 @@
+C:\Users\Тионс\Desktop\seminar7\HWs7CSh\obj\Debug\net7.0\HWs7CSh.csproj.AssemblyReference.cache
+C:\Users\Тионс\Desktop\seminar7\HWs7CSh\obj\Debug\net7.0\HWs7CSh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тионс\Desktop\seminar7\HWs7CSh\obj\Debug\net7.0\HWs7CSh.AssemblyInfoInputs.cache
+C:\Users\Тионс\Desktop\seminar7\HWs7CSh\obj\Debug\net7.0\HWs7CSh.AssemblyInfo.cs
+C:\Users\Тионс\Desktop\seminar7\HWs7CSh\obj\Debug\net7.0\HWs7CSh.csproj.CoreCompileInputs.cache
+C:\Users\Тионс\Desktop\seminar7\HWs7CSh\bin\Debug\net7.0\HWs7CSh.exe
+C:\Users\Тионс\Desktop\seminar7\HWs7CSh\bin\Debug\net7.0\HWs7CSh.deps.json
+C:\Users\Тионс\Desktop\seminar7\HWs7CSh\bin\Debug\net7.0\HWs7CSh.runtimeconfig.json
+C:\Users\Тионс\Desktop\seminar7\HWs7CSh\bin\Debug\net7.0\HWs7CSh.dll
+C:\Users\Тионс\Desktop\seminar7\HWs7CSh\bin\Debug\net7.0\HWs7CSh.pdb
+C:\Users\Тионс\Desktop\seminar7\HWs7CSh\obj\Debug\net7.0\HWs7CSh.dll
+C:\Users\Тионс\Desktop\seminar7\HWs7CSh\obj\Debug\net7.0\refint\HWs7CSh.dll
+C:\Users\Тионс\Desktop\seminar7\HWs7CSh\obj\Debug\net7.0\HWs7CSh.pdb
+C:\Users\Тионс\Desktop\seminar7\HWs7CSh\obj\Debug\net7.0\HWs7CSh.genruntimeconfig.cache
+C:\Users\Тионс\Desktop\seminar7\HWs7CSh\obj\Debug\net7.0\ref\HWs7CSh.dll
